@@ -1,4 +1,5 @@
-Kyle Nathan Aguirre
+**Kyle Nathan Aguirre**
+
 UC Berkeley CS Graduate (Spring 2026) | Software Engineer
 
 About Me:
